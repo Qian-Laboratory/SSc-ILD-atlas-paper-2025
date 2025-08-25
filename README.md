@@ -1,1 +1,1 @@
-# project_ssc_2021
+# Code related to SSc Project
